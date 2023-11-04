@@ -1,7 +1,6 @@
-# ECON-576-Competition
-## Predict House Sale Price using Machine learning models.
+# Predict House Sale Price using Machine learning models.
 
-# Pre-requisites and steps to run
+## Pre-requisites and steps to run
 **Language**                                    : Python 3\
 **Required special packages to be installed**   : Numpy, Pandas, sci-kit learn\
 **Recommended environment**                     : Jupyter\
