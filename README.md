@@ -7,5 +7,5 @@
 **Steps to install special packages in Jupyter**: Run **conda install "package name"** in anaconda prompt\
 **Steps to run**                                : Run code.ipynb if using Jupyter or code.py if using python editor. More instructions can be found in Code directory.
 ## General instructions
-Refer to the code directory for the modelling steps.\
+Refer to the code.ipynb in the Code directory for the modelling steps.\
 The original files, resources and instructions for modelling(train, test, submission example and leaderboard scores) can be found in the original_files folder.
